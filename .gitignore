@@ -1,0 +1,12 @@
+# Compiled binaries
+types
+representations
+binary
+characters
+signed_unsigned
+overflow
+memo
+inspect
+*.out
+*.exe
+*.o
